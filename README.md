@@ -7,11 +7,22 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->Hello, I'm a carreer restarter, going from Business Ops, Customer Success and Operations into my first love of computers, to be a developer like I should of from the first place.
+-->
+Hello, I'm a career re-starter, coming from Business Ops, Customer Success and Operations and returning into my first love of computers.
+
+I wish to be that developer I dreamed of being in the past, like I wanted to do the first time but, but was drifed off course by real life. 
+
+Went back to college, learned how to code and using all the skills that I had collected from using computers daily with it to become "good".
+
+Started to find a job, but the world.exe had a virus, and it stopped my job search in it's tracks. 
+
+Now, let's go and grab some more skills and level up so that I can get a job as mid level developer!  
+
+- 🌱 I’m currently learning ... Modern Javascript in depth with CssGrid and VueJs.  
+
+
+
 
