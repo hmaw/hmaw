@@ -20,5 +20,5 @@ Now, let's go and grab some more skills and level up so that I can get an amazin
 
 - 🌱 I’m currently learning ... Modern Javascript in depth with CssGrid and VueJs.  
 - 🔭 In the future, I'd love to explore more in ML, AR/VR, and virtural world ethics. 
-I enjoy talking about tiki culture, watercolors, and gaming. 
+I enjoy talking about tiki culture, watercolors, anime, and gaming. 
 
