@@ -19,6 +19,6 @@ Started to find that first job, but the world.exe had a virus, and it stopped my
 Now, let's go and grab some more skills and level up so that I can get an amazing job as mid-level developer when things calm back down.   
 
 - 🌱 I’m currently learning ... Modern Javascript in depth with CssGrid and VueJs.  
-- 🔭 In the future, I'd love to explore more in ML, AR/VR, and virtural world ethics. 
+- 🔭 In the future, I'd love to explore more in ML, AR/VR, and virtural world ethics. I want to see how the front end world can be joined with XR.
 I enjoy talking about tiki culture, watercolors, anime, and gaming. 
 
