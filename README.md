@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: <- email
 - 😄 Pronouns: ... she/her
 -->
-Hello, I'm a career re-starter, returning into my first love of computers.  I wish to be that developer I dreamed of being, but was drifed off course by real life and quesstionable advice.  
+Hello, I'm a career re-starter, returning into my first love of computers.  I wish to be that developer I dreamed of being, but was drifed off course by real life and quesstionable advice.  Back on track again and having the time of my life.
 
 Started to find that first job, but the world.exe had a virus, and it stopped my job search in it's tracks.  I am forgeing on and learn as much as I can while the world recovers.
 
