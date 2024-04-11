@@ -5,19 +5,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...a fresh view.
-- 🌱 I’m currently learning ...HuggingFace, GenAI,  with AWS and Salesforce of all things.
+- 🔭 I’m currently working on ... a fresh view.
+- 🌱 I’m currently learning ... Gen AI,with AWS and Salesforce of all things.
 - 💬 Ask me about ...anything, I'm willing to help as much as I can.
-- 📫 How to reach me: <- email
+- 📫 How to reach me: <- email h.m.a.wilcox at gmail dot com
 - 😄 Pronouns: ... she/her
--->
-Hello, I was a career re-starter, restarting to enjoy my first love of computers once again.  I am determined to be that developer I dreamed of being as a teen, but was drifed off course by real life and quesstionable advice.  Back on track again and having the time of my life.
 
-Started to find that first job, but the world.exe had a virus, and it stopped my job search in it's tracks. Took a consulting job and learned HEAPS of everything.   I am forgeing on and learn as much as I can while the world recovers and enjoying the joy of taking a break due to layoffs right at the moment.  
-
-Now, let's go and grab some more skills and level up so that I can get an amazing job as Senior developer when things calm back down.   
-
-- 🌱 I’m currently learning ... Modern Javascript & Typescript in depth with CssGrid and VueJs with AWS certs, after using Agile and Salesforce in the past.
-- 🔭 In the future, I'd love to explore more in AI, ML, AR/VR, and virtural world ethics. I want to see how the front end world can be joined with XR responsbily.
-I enjoy talking about Gen AI, automating sprout growing/hydroponics, tiki culture, watercolors, anime, and gaming. 
-
+--> Highly motivated and results-oriented developer with a passion for modern web technologies and a strong foundation in Agile methodologies. Seeking a developer role to leverage extensive consulting experience and a growth mindset to contribute to innovative projects. Eager to bridge the gap between front-end development and emerging technologies like XR.
