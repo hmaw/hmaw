@@ -11,4 +11,4 @@ Here are some ideas to get you started:-->
 - 📫 How to reach me: <- email h.m.a.wilcox at gmail dot com
 - 😄 Pronouns: ... she/her
 
--- Highly motivated and results-oriented developer with a passion for modern web technologies and a strong foundation in Agile methodologies. Seeking a developer role to leverage extensive consulting experience and a growth mindset to contribute to innovative projects. Eager to bridge the gap between front-end development and emerging technologies like XR.
+-- Highly motivated and results-oriented developer with a passion for modern web technologies and a strong foundation in Agile methodologies. Seeking a developer role to leverage extensive consulting experience and a growth mindset to contribute to innovative projects. Eager to bridge the gap between front-end development and emerging technologies like XR and GenAI.
