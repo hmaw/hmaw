@@ -6,7 +6,7 @@
 Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on ... a fresh view.
-- 🌱 I’m currently learning ... Gen AI,with AWS and Salesforce of all things.
+- 🌱 I’m currently learning ... Gen AI,with Salesforce of all things but you can use your own LLMs with it.
 - 💬 Ask me about ...anything, I'm willing to help as much as I can.
 - 📫 How to reach me: <- email h.m.a.wilcox at gmail dot com
 - 😄 Pronouns: ... she/her
