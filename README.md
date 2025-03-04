@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on ... a fresh view of services & software.
+- 🔭 I’m currently working on ... a fresh view of services in software.
 - 🌱 I’m currently learning ... Data Analyst.
 - 💬 Ask me about ...anything, I'm willing to help as much as I can.
 - 📫 How to reach me: <- email h.m.a.wilcox at gmail dot com
