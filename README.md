@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on ... a fresh view of services in software using MCP.
-- 🌱 I’m currently learning ... AI Data Engineering with MCP.
+- 🔭 I’m currently working on ... a fresh view of services in software using MCP/Python/Data Engineering.
+- 🌱 I’m currently learning ... AI Data Engineering, MCP for GenAI and refreshing my Python knowlage.
 - 💬 Ask me about ...anything, I'm willing to help as much as I can.
 - 📫 How to reach me: <- email h.m.a.wilcox at gmail dot com
 - 😄 Hobbies:  Gardening, Tiki mocktails and Tea
